@@ -1,4 +1,4 @@
-# 🧠 MCP - Titan Memory Server implementation
+# 🧠 MCP -- Titan Memory Server implementation
 
 Colaboration between [@jasonkneen](https://github.com/jasonkneen) and [@ExpressionsBot](https://github.com/ExpressionsBot) 
 
